@@ -1,7 +1,7 @@
 ### Hi there, I'm Akriti👋
 
 
-## I'm a Student and developer!
+## I'm a Student and  Web developer!
 
 - 🌱 I’m currently learning web development
 - 🥅Goals: Contribute more to Open Source projects
