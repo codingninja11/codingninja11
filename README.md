@@ -3,9 +3,9 @@
 
 ## I'm a Student and  Web developer!
 
-- 🌱 I’m currently learning web development
-- 🥅Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook in free-time
+- 🌱 I’m currently learning Web Development.
+- 🥅Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to cook in free-time.
 
 ### Connect with me:
 
