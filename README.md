@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning web development
 - 🥅Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook 
+- ⚡ Fun fact: I love to cook in free-time
 
 ### Connect with me:
 
