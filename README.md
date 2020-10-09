@@ -1,5 +1,6 @@
-### Hi there, I'm Akriti👋
+<h1 align="center">Hi 👋, I'm Akriti</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingninja11&label=Profile%20views&color=0e75b6&style=flat" alt="codingninja11" /> </p>
 
 ## I'm a Student and  Web developer!
 
@@ -38,7 +39,7 @@
   <summary>:zap: Github Stats</summary>
 
   [![Akriti's github stats](https://github-readme-stats.vercel.app/api?username=codingninja11&show_icons=true&theme=dracula)](https://github.com/codingninja11/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingninja11&layout=compact)](https://github.com/codingninja11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingninja11&layout=compact&theme=dracula)](https://github.com/codingninja11/github-readme-stats)
 </details>
 
 
