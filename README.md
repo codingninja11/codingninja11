@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akriti</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingninja11&label=Profile%20views&color=0e75b6&style=flat" alt="codingninja11" /> </p>
-
-## I'm a Student and  Web developer!
+<h3 align="center">I'm a Student and Web Developer</h3>
 
 - 🌱 I’m currently learning Web Development.
 - 🥅Goals: Contribute more to Open Source projects.
@@ -29,7 +27,7 @@
 <img align="left"alt="JavaScript"width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
