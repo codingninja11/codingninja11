@@ -21,11 +21,13 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="C" width="26px" src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="cpp" width="26px" src= "https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="PHP" width="26px" src= "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left"alt="JavaScript"width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
+<img align="left" alt="npm" width="26px" src= "https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+<img align="left"alt="Bootstrap"width="26px"src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
