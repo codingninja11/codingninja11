@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akriti</h1>
 
-<h3 align="center">I'm a Student and Web Developer</h3>
+<h3 align="center">I'm a Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning Web Development.
 - 🥅Goals: Contribute more to Open Source projects.
